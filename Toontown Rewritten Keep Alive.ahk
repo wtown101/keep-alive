@@ -8,7 +8,7 @@ IfWinExist %wintitle%
         Controlsend,,{End down}, %wintitle% ;
         sleep 75
 	Controlsend,,{End up}, %wintitle% ;
-	sleep 115000
+	sleep 11500
    }
 }
 Return
